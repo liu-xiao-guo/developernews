@@ -1,0 +1,17 @@
+{
+    "name": "com.ubuntu.developer.liu-xiao-guo.develoepernews",
+    "description": "description of develoepernews",
+    "architecture": "all",
+    "title": "develoepernews",
+    "hooks": {
+        "developernews": {
+            "apparmor": "developernews.apparmor",
+            "desktop":  "developernews.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-14.10"
+}
+
+
